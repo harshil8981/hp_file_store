@@ -8,10 +8,10 @@
     <img src="https://github.com/CodeXBotz/PyrogramGenStr/blob/main/resources/madebycodex-badge.svg" width="250">
   </a><br>
   <a href="https://t.me/Hpbot_update">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/hp%20%F0%9D%95%8F%20Bot-Channel-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <a href="https://t.me/HP_Bot_discuss_group">
-    &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
+    &nbsp;<img src="https://img.shields.io/badge/hp%20%F0%9D%95%8F%20Bot-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
   <a href="https://github.com/harshil8981/hp_file_store/stargazers">
